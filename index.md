@@ -16,7 +16,7 @@ profile_picture:
 <font color="Black" face="微软正黑" size=4 class="aa">香港中文大学会计学院</font>
 </p>
 <p>
-<font color="Black" face="微软正黑" size=4>电邮:</font>
+<font color="Black" face="微软正黑" size=4>电子邮箱:</font>
 <font color="SteelBlue" face="微软正黑" size=4><a href="mailto:haoran.liu@link.cuhk.edu.hk">haoran.liu@link.cuhk.edu.hk</a> </font>
 </p>
 
