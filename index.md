@@ -21,8 +21,7 @@ profile_picture:
 </p>
 
 <p>
-<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank">学校网页</a>|
-<a href="www.linkedin.com/in/haoran-leighton-liu/">领英</a>|<a href="https://orcid.org/0009-0008-9794-0416" target="_blank"> ORCiD</a>|
+<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank">学校网页</a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank"> ORCiD</a>|
 <!-- <a href="https://papers.ssrn.com/" target="_blank">SSRN个人页面 </a></font> -->
 </p>
 
