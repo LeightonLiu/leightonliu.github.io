@@ -25,3 +25,20 @@ profile_picture:
 <!-- <a href="https://papers.ssrn.com/" target="_blank">SSRN个人页面 </a></font> -->
 </p>
 
+<p>
+<font color="black" face="微软正黑" size=3> 刘浩然是香港中文大学会计学院博士生，目前主要研究兴趣在于监管、分析师和制度环境。
+
+
+<p>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">教育背景</font></b>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2024 至今, 香港中文大学, 哲学(会计学)博士 </font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2022 – 2024,	上海财经大学，管理学(会计学)硕士 </font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2018 – 2022, 上海财经大学，管理学(会计学)学士 </font>
+</p>
+
