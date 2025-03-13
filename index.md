@@ -22,7 +22,7 @@ profile_picture:
 
 <p>
 <a href="https://sites.google.com/view/haoran-liu/home" target="_blank">
-<font color="Black" face="微软正黑" size=4>Site英文个人网页</font>
+<font color="Black" face="微软正黑" size=4>英文个人网页</font>
 </a>
 </p>
 
