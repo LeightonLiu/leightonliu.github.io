@@ -21,7 +21,7 @@ profile_picture:
 </p>
 
 <p>
-<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank">学校网页 </a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank"> ORCiD</a>|
+<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank">学校网页 </a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank"> ORCiD </a>|
 <!-- <a href="https://papers.ssrn.com/" target="_blank">SSRN个人页面 </a></font> -->
 </p>
 
@@ -30,7 +30,7 @@ profile_picture:
 
 
 <p>
-<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">教育背景</font></b>
+<b><font color="SteelBlue" face="KaiTi_GB2312" size=4 class="aa">教育背景</font></b>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2024 至今, 香港中文大学, 哲学(会计学)博士 </font>
