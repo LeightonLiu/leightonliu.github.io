@@ -29,7 +29,7 @@ profile_picture:
 </p>
 
 <p>
-<a href=https://drive.google.com/file/d/1cuOBRyM7XePEHMcM65--KdlDuo2BqTZ6/view" target="_blank"><font face="微软正黑" size=4>英文个人简历</font></a>
+<a href=https://drive.google.com/file/d/1cuOBRyM7XePEHMcM65--KdlDuo2BqTZ6/view" target="_blank"> <font face="微软正黑" size=4> 英文个人简历 </font> </a>
 </p>
 
 <p>
