@@ -27,7 +27,7 @@ profile_picture:
 </p>
 
 <p>
-<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank">学校网页 </a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank"> ORCiD </a>|
+<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank"> <font color="Black" face="微软正黑"size=4> 学校网页 </font> </a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank">  <font color="Black" face="Times New Roman"size=4> ORCiD </font> </a>|
 <!-- <a href="https://papers.ssrn.com/" target="_blank">SSRN个人页面 </a></font> -->
 </p>
 
