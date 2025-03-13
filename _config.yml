@@ -3,9 +3,9 @@
 
 
 
-title: Haoran Liu
+title: 刘浩然，香港中文大学
 description: >- # this means to ignore newlines until "baseurl:"
-  Haoran Liu.
+  刘浩然的中文主页.
 # baseurl: "/Lin" # the subpath of the site  #bay
 url: "https://leightonliu.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
