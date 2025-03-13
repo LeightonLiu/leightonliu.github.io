@@ -22,12 +22,12 @@ profile_picture:
 
 <p>
 <a href="https://sites.google.com/view/haoran-liu/home" target="_blank">
-<font color="Black" face="微软正黑" size=4>英文个人网页</font>
+<font face="微软正黑" size=4>英文个人网页</font>
 </a>
 </p>
 
 <p>
-<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank"> <font color="Black" face="微软正黑"size=4> 学校网页 </font> </a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank">  <font color="Black" face="Times New Roman"size=4> ORCiD </font> </a>|
+<a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank"> <font face="微软正黑" size=4> 学院网页 </font> </a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank"> <font face="微软正黑" size=4>ORCiD</font> </a>|
 <!-- <a href="https://papers.ssrn.com/" target="_blank">SSRN个人页面 </a></font> -->
 </p>
 
