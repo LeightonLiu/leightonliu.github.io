@@ -29,6 +29,12 @@ profile_picture:
 </p>
 
 <p>
+<a href=https://drive.google.com/file/d/1cuOBRyM7XePEHMcM65--KdlDuo2BqTZ6/view" target="_blank">
+<font face="微软正黑" size=4>英文个人简历</font>
+</a>
+</p>
+
+<p>
 <font color="black" face="微软正黑" size=3> 刘浩然是香港中文大学会计学院博士生，目前主要研究兴趣在于监管、分析师和制度环境。
 
 
