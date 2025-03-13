@@ -3,12 +3,12 @@
 
 
 
-title: Jie Cao
+title: Haoran Liu
 description: >- # this means to ignore newlines until "baseurl:"
-  Jie Cao.
+  Haoran Liu.
 # baseurl: "/Lin" # the subpath of the site  #bay
-url: "https://jiecaofin.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profilepic.jpg
+url: "https://leightonliu.github.io" # the base hostname & protocol for the site
+og_image: /assets/img/profile-pic.jpg
 #google_analytics: "UA-121636368-3"
 
 header: 
@@ -22,11 +22,11 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: jiecaopku@hotmail.com
-      link: mailto:jiecaopku@hotmail.com
+      value: haoran.liu@link.cuhk.edu.hk
+      link: mailto:haoran.liu@link.cuhk.edu.hk
   follow:
     - name: LinkedIn
-      link: https://hk.linkedin.com/in/jie-jay-cao
+      link: https://hk.linkedin.com/in/haoran-leighton-liu
 
 
 # Build settings
