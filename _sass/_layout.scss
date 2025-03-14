@@ -136,6 +136,11 @@
   width: calc(33% - (#{$spacing-unit} / 2));
 }
 
+.footer-content {
+  margin: 0 auto;
+  max-width: 800px;
+}
+
 .follow-links > .social-link {
   flex: 0 50%;
 }
