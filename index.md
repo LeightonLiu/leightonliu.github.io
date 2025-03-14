@@ -15,13 +15,6 @@ profile_picture:
 <p>
 <font color="Black" size=4 class="aa">香港中文大学会计学院</font>
 </p>
-<p>
-<b><font color="Black" size=3 class="aa">通讯地址: </font></b> <font color="Black" size=3 class="aa"> 香港特别行政区新界沙田泽祥街12号郑裕彤楼10层 </font>
-</p>
-<p>
-<b><font color="Black" size=3>电子邮箱:</font></b>
-<font color="SteelBlue" size=3><a href="mailto:haoran.liu@link.cuhk.edu.hk">haoran.liu@link.cuhk.edu.hk</a> </font>
-</p>
 
 <p>
 <a href="https://sites.google.com/view/haoran-liu/home" target="_blank">
