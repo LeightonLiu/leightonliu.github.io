@@ -55,5 +55,5 @@ profile_picture:
 <b><font color="black" size=4 class="aa">学术服务</font></b>
 </p>
 <p>
-<font color="black" size=3>担任Asia Review of Accounting等期刊的审稿人. </font>
+<font color="black" size=3>担任Asia Review of Accounting等期刊的匿名审稿人. </font>
 </p>
