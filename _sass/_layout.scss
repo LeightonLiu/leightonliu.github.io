@@ -169,9 +169,12 @@
   font-size: 20px;
 }
 
+/**
+ * Wrapper - Increased width for less whitespace
+ */
 .wrapper {
-  max-width: -webkit-calc(1000px - (#{$spacing-unit} * 2));
-  max-width:         calc(1000px - (#{$spacing-unit} * 2));
+  max-width: -webkit-calc(1200px - (#{$spacing-unit} * 2));
+  max-width:         calc(1200px - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
   padding-right: $spacing-unit;
@@ -179,15 +182,14 @@
   @extend %clearfix;
 
   @include media-query($on-laptop) {
-    max-width: -webkit-calc(1100px - (#{$spacing-unit}));
-    max-width:         calc(1100px - (#{$spacing-unit}));
+    max-width: -webkit-calc(1200px - (#{$spacing-unit}));
+    max-width:         calc(1200px - (#{$spacing-unit}));
     padding-right: $spacing-unit / 2;
     padding-left: $spacing-unit / 2;
   }
 
   position: relative;
 }
-
 
 /**
  * Two-column layout
@@ -203,16 +205,17 @@
 }
 
 .sidebar {
-  flex: 0 0 280px;
+  flex: 0 0 300px;
   
   @include media-query($on-mobile) {
     flex: 1 0 auto;
     margin-bottom: $spacing-unit;
   }
+}
 
 .main-content {
   flex: 1;
-  max-width: 680px;
+  max-width: 800px;
 }
 
 .avatar-container {
@@ -220,7 +223,7 @@
   
   .avatar {
     width: 100%;
-    max-width: 250px;
+    max-width: 280px;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
   }
