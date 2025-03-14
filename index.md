@@ -10,13 +10,16 @@ profile_picture:
 <b><font color="Black" size=5 class="aa">刘浩然</font></b>
 </p>
 <p>
-<font color="Black" size=4 class="aa">会计学博士生</font>
+<b><font color="Black" size=4 class="aa">会计学博士生</font></b>
 </p>
 <p>
-<font color="Black" size=4 class="aa">香港中文大学会计学院</font>
+<b><font color="Black" size=4 class="aa">香港中文大学会计学院</font></b>
 </p>
 <p>
-<font color="Black" size=4>电子邮箱:</font>
+<b><font color="Black" size=4 class="aa">通讯地址: </font></b> 香港特别行政区新界沙田泽祥街12号郑裕彤楼10层
+</p>
+<p>
+<b><font color="Black" size=4>电子邮箱:</font></b>
 <font color="SteelBlue" size=4><a href="mailto:haoran.liu@link.cuhk.edu.hk">haoran.liu@link.cuhk.edu.hk</a> </font>
 </p>
 
