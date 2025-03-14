@@ -39,12 +39,18 @@ profile_picture:
 <b><font color="black" size=4 class="aa">教育背景</font></b>
 </p>
 <p>
-<font color="black" size=3>2024 至今, 香港中文大学, 哲学(会计学)博士 </font>
+<font color="black" face="微软正黑" size=3>2024 至今, 香港中文大学会计学院, 哲学(会计学)博士 </font>
 </p>
 <p>
-<font color="black" size=3>2022 – 2024,	上海财经大学，管理学(会计学)硕士 </font>
+<font color="black" face="微软正黑" size=3>2022 – 2024,	上海财经大学会计学院，管理学(会计学)硕士 </font>
 </p>
 <p>
-<font color="black" size=3>2018 – 2022, 上海财经大学，管理学(会计学)学士 </font>
+<font color="black" face="微软正黑" size=3>2018 – 2022, 上海财经大学会计学院，管理学(会计学)学士 </font>
 </p>
 
+<p>
+<b><font color="black" size=4 class="aa">学术服务</font></b>
+</p>
+<p>
+<font color="black" size=3>担任Asia Review of Accounting等期刊的审稿人. </font>
+</p>
