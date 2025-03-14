@@ -1,27 +1,58 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   {% include head.html %}
-
   <body>
     {% include header.html %}
-
+    
     <div class="page-content">
-      <div class="wrapper">
-        <div class="home">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-            class="profilepic"
-          />
-
+      <div class="wrapper two-column-layout">
+        <!-- Left column with avatar and contact info -->
+        <div class="sidebar">
+          <div class="avatar-container">
+            <img src="{{ site.baseurl }}/assets/img/avatar.jpg" alt="Profile Picture" class="avatar">
+          </div>
+          <div class="contact-container">
+            <h3>Contact Information</h3>
+            <ul class="contact-list">
+              <li><strong>Email:</strong> {{ site.email }}</li>
+              {% if site.phone %}
+              <li><strong>Phone:</strong> {{ site.phone }}</li>
+              {% endif %}
+              {% if site.location %}
+              <li><strong>Location:</strong> {{ site.location }}</li>
+              {% endif %}
+            </ul>
+            <div class="social-links">
+              {% if site.github_username %}
+              <a href="https://github.com/{{ site.github_username }}" target="_blank" class="social-link">
+                <span class="icon">{% include icons/github.svg %}</span>
+                <span class="username">GitHub</span>
+              </a>
+              {% endif %}
+              {% if site.linkedin_username %}
+              <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" class="social-link">
+                <span class="icon">{% include icons/linkedin.svg %}</span>
+                <span class="username">LinkedIn</span>
+              </a>
+              {% endif %}
+              {% if site.twitter_username %}
+              <a href="https://twitter.com/{{ site.twitter_username }}" target="_blank" class="social-link">
+                <span class="icon">{% include icons/twitter.svg %}</span>
+                <span class="username">Twitter</span>
+              </a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+        
+        <!-- Right column with main content -->
+        <div class="main-content">
           {{ content }}
         </div>
       </div>
     </div>
-
+    
     {% include footer.html %}
-
     {% include foot.html %}
-    <script type="text/javascript" src="//js.users.51.la/21950647.js"></script>
   </body>
 </html>
