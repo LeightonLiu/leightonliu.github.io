@@ -1,6 +1,59 @@
 <!DOCTYPE html>
 <html>
-  {% include head.html %}
+  <head>
+    {% include head.html %}
+    <style>
+      .home {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 20px 0;
+      }
+
+      .sidebar {
+        flex: 1;
+        max-width: 300px;
+        margin-right: 20px;
+      }
+
+      .profilepic {
+        width: 100%;
+        height: auto;
+        border-radius: 50%;
+        margin-bottom: 20px;
+      }
+
+      .contact {
+        font-family: "微软正黑", sans-serif;
+        font-size: 16px;
+        color: black;
+      }
+
+      .contact h3 {
+        margin-top: 0;
+      }
+
+      .main-content {
+        flex: 2;
+        min-width: 600px;
+      }
+
+      @media (max-width: 768px) {
+        .home {
+          flex-direction: column;
+        }
+
+        .sidebar {
+          max-width: 100%;
+          margin-right: 0;
+          margin-bottom: 20px;
+        }
+
+        .main-content {
+          min-width: 100%;
+        }
+      }
+    </style>
+  </head>
 
   <body>
     {% include header.html %}
@@ -8,13 +61,26 @@
     <div class="page-content">
       <div class="wrapper">
         <div class="home">
-          <img
-            src="{{ page.profile_picture.src | absolute_url }}"
-            alt="{{ page.profile_picture.alt }}"
-            class="profilepic"
-          />
-
-          {{ content }}
+          <div class="sidebar">
+            <div class="profile">
+              <img
+                src="{{ page.profile_picture.src | absolute_url }}"
+                alt="{{ page.profile_picture.alt }}"
+                class="profilepic"
+              />
+            </div>
+            <div class="contact">
+              <h3>联系方式</h3>
+              <p>姓名: 刘浩然</p>
+              <p>邮箱: liuhaoran@example.com</p>
+              <p>电话: +852 1234 5678</p>
+              <p>地址: 香港中文大学会计学院</p>
+              <!-- 添加其他联系方式 -->
+            </div>
+          </div>
+          <div class="main-content">
+            {{ content }}
+          </div>
         </div>
       </div>
     </div>
