@@ -20,13 +20,13 @@ header:
 
 footer:
   show_powered_by: false
-  contact:
-    - name: Email
-      value: haoran.liu@link.cuhk.edu.hk
-      link: mailto:haoran.liu@link.cuhk.edu.hk
-  follow:
-    - name: LinkedIn
-      link: www.linkedin.com/in/haoran-leighton-liu/
+  # contact:
+  #   - name: Email
+  #     value: haoran.liu@link.cuhk.edu.hk
+  #     link: mailto:haoran.liu@link.cuhk.edu.hk
+  # follow:
+  #   - name: LinkedIn
+  #     link: www.linkedin.com/in/haoran-leighton-liu/
 
 
 # Build settings
