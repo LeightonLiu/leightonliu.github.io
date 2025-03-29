@@ -18,7 +18,7 @@ profile_picture:
 
 <p>
 <a href="https://sites.google.com/view/haoran-liu/home" target="_blank">
-<font size=3>英文个人网页</font>
+<font size=3>英文个人网页 (English Page) </font>
 </a> | 
 <a href="https://grad.bschool.cuhk.edu.hk/students/liu-haoran/" target="_blank"> <font size=3> 学院网页 </font> </a>| <a href="https://orcid.org/0009-0008-9794-0416" target="_blank"> <font size=3>ORC</font><font color="green" size=3>iD</font> </a>
 <!-- <a href="https://papers.ssrn.com/" target="_blank">SSRN个人页面 </a></font> -->
