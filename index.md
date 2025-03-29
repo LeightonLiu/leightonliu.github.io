@@ -25,7 +25,7 @@ profile_picture:
 </p>
 
 <p>
-<a href="https://drive.google.com/file/d/1cuOBRyM7XePEHMcM65--KdlDuo2BqTZ6/view" target="_blank"> <font size=3> 英文个人简历 </font> </a>
+<a href="https://drive.google.com/file/d/1cuOBRyM7XePEHMcM65--KdlDuo2BqTZ6/view" target="_blank"> <font size=3> 英文个人简历 (Curriculum Vitae) </font> </a>
 </p>
 
 <p>
