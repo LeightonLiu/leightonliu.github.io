@@ -29,7 +29,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" size=3> 刘浩然是香港中文大学会计学院博士生，他目前主要研究兴趣在于资本市场监管、信息中介和信息披露的实际效应。
+<font color="black" size=3> 刘浩然是香港中文大学会计学院博士生，他目前主要研究兴趣在于披露的实际效应和管理会计。
 
 <p>
 <b><font color="black" size=4 class="aa">教育背景</font></b>
@@ -42,11 +42,4 @@ profile_picture:
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2018 – 2022, 上海财经大学会计学院，管理学(会计学)学士 </font>
-</p>
-
-<p>
-<b><font color="black" size=4 class="aa">学术服务</font></b>
-</p>
-<p>
-<font color="black" size=3>担任Asia Review of Accounting等期刊的匿名审稿人. </font>
 </p>
